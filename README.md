@@ -27,6 +27,6 @@ Thank you for reviewing my internship task submission!
 ## Contact Information
 For any inquiries or feedback regarding this project, please contact:
 
-- <a href="https://www.linkedin.com/in/tufan-kundu-577945221/">Tufan Kundu (LinkedIn)</a>
-- Email: tufan.kundu11@gmail.com
+- <https://www.linkedin.com/in/shubhamraj-pandey/> Shubhamraj Pandey (LinkedIn)</a>
+- Email: pandeshubhamraj@gmail.com
 
